@@ -1,0 +1,7 @@
+{
+  "name": "AD Trading Learning",
+  "description": "বাংলা ভাষায় শেয়ার মার্কেট ও ট্রেডিং শেখার পূর্ণাঙ্গ অ্যাপ। একাউন্ট লগইন, লাইভ গুগল মিট ক্লাস, শিক্ষামূলক মডিউল, কুইজ ও প্র্যাকটিস পোর্টফোলিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
